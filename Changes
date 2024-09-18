@@ -1,0 +1,19 @@
+Revision history for BP-Model
+
+{{$NEXT}}
+
+v1.1.3  2019-11-17 19:08:43 CET
+	- Improved documentation about installing this module from BSC INB DarkPAN.
+	- Added explicit developing dependence on MakeMaker.
+
+v1.1.2  2019-11-15 17:44:08 CET
+
+	- Added development dependency on OrePAN2.
+	- Used Dist::Zilla::Plugin::Run for releases.
+
+v1.01
+	- Removed dependency on TabParser, as it is not needed
+
+v1.00
+	- Forked from https://github.com/inab/BP-Schema-agents.git
+	- Initial release based on Dist::Milla.
